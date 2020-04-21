@@ -6,9 +6,7 @@
 namespace Engine {
     class Window {
         public:
-
         void SetSize(Vector2*);
-
         void Initialise();
 
         // Engine::Surface* GetSurface( );
